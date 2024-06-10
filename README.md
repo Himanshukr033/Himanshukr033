@@ -8,7 +8,6 @@
 - 📫 How to reach me **himanshukr033@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
-<svg role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"></svg>
 <p align="left">
 <a href="https://linkedin.com/in/himanshukumar033" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="himanshukumar033" height="30" width="40" /></a>
 </p>
