@@ -18,3 +18,5 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=himanshukr033&show_icons=true&locale=en&layout=compact" alt="himanshukr033" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=himanshukr033&" alt="himanshukr033" /></p>
+
+[![Himanshukr033's GitHub | Stats](https://stats.quine.sh/Himanshukr033/github?theme=light)](https://quine.sh?utm_source=widgets&utm_campaign=Himanshukr033)
