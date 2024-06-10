@@ -1,3 +1,11 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hello!&height=100&section=header"/>
+</p>
+
+<h1 align="center">
+  Let's Connect and have a Chat!💬
+</h1>
+
 <h1 align="center">Hi 👋, I'm Himanshu Kumar</h1>
 <h3 align="center">I'm the Full-Stack Application Developer@Zeuron.ai, an innovating Neurotech start-up transforming the healthcare landscape.</h3>
 
