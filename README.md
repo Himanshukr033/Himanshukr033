@@ -20,3 +20,5 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=himanshukr033&" alt="himanshukr033" /></p>
 
 [![Himanshukr033's GitHub | Stats](https://stats.quine.sh/Himanshukr033/github?theme=light)](https://quine.sh?utm_source=widgets&utm_campaign=Himanshukr033)
+
+[![Himanshukr033's GitHub | Languages Over Time](https://stats.quine.sh/Himanshukr033/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Himanshukr033)
