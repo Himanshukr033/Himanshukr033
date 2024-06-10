@@ -2,22 +2,50 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hello!&height=100&section=header"/>
 </p>
 
-<h1 align="center">
-  Let's Connect and have a Chat!💬
-</h1>
+<h1 align="center">I'm Himanshu </h1>
 
-<h1 align="center">Hi 👋, I'm Himanshu Kumar</h1>
-<h3 align="center">I'm the Full-Stack Application Developer@Zeuron.ai, an innovating Neurotech start-up transforming the healthcare landscape.</h3>
+---
+<h2> 👨🏻‍💻 &nbsp;A Little Bit About Me and My Interests</h2>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=himanshukr033&label=Profile%20views&color=0e75b6&style=flat" alt="himanshukr033" /> </p>
+```yaml
+name: Himanshu Kumar
+located_in: Bengaluru
+current_job: Full-Stack Application Developer
+company: Zeuron.ai
 
-- 🌱 I’m currently learning **Three.js, AWS**
+education:
+  [
+    "Self-Taught Developer",
+    "BTech@ IIT Palakkad",
+  ]
+fields_of_interests:
+  [
+    "Web Development",
+    "Software Development",
+    "DevOps",
+  ]
+
+technical_background:
+  [
+    "Full-Stack Application Developer"
+    "Intern - Software Development",
+    "Intern - Internet Of Things and Robotics",
+  ]
+  
+currently_learning: ["AWS, Three.js"]
+hobbies: ["Gaming", "Movies", "Travelling", "Comedy"]
+```
+  
+---  
+
 
 - 📫 How to reach me **himanshukr033@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/himanshukumar033" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="himanshukumar033" height="30" width="40" /></a>
+
+  <a href="mailto:himanshukr033@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="himanshukumar033" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
