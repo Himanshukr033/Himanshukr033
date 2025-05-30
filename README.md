@@ -9,9 +9,9 @@
 
 ```yaml
 name: Himanshu Kumar
-located_in: Bengaluru
-current_job: Full-Stack Application Developer
-company: Zeuron.ai
+located_in: Pune
+current_job: Software Developer
+company: Indexnine
 
 education:
   [
@@ -20,15 +20,18 @@ education:
   ]
 fields_of_interests:
   [
-    "Web Development",
+    "Generative AI",
+    "Agentic Workflow",
     "Software Development",
     "DevOps",
+    "Web Development",
   ]
 
 technical_background:
   [
-    "Full-Stack Application Developer"
-    "Intern - Software Development",
+    "Software Developer (Gen AI: agentic workflow developer)"
+    "Full-Stack Application Developer",
+    "Intern - Software Developer",
     "Intern - Internet Of Things and Robotics",
   ]
   
