@@ -35,7 +35,7 @@ technical_background:
     "Intern - Internet Of Things and Robotics",
   ]
   
-currently_learning: ["AWS, Three.js"]
+currently_learning: ["MCP", "RAG", "Langchain", "LLM fine tuning"]
 hobbies: ["Gaming", "Movies", "Travelling", "Comedy"]
 ```
   
